@@ -1,9 +1,22 @@
 ## Hi there! I'm Kirill, Frontend Web Developer (React, TypeScript) 👋
 
-You can contact me at
+You can contact me at:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linner_kot)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white&color=#26d367)](https://wa.me/79035740830?text=)
+
+I am open to your suggestions, 1,5 years of professional experience, worked as a frontend web developer in a «К-технологии», where I honed my skills in:
+
+- development and optimization of frontend functionality of websites for customer requests;
+- revision, correction, refactoring, improving the quality of existing system components, including working with ready-made code;
+- interaction with the team.
+
+<!--
+Key Achievements:
+
+- participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
+- elevated website performance by ensuring that they achieve 'green zone' PageSpeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences.
+-->
 
 ## Things I code with
 
@@ -19,8 +32,6 @@ You can contact me at
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%230A1F1D.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -38,7 +49,7 @@ You can contact me at
 ![MacOS](https://img.shields.io/badge/macos-%231B1D1F.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%23327B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-<!-- ## Some of my GitHub Stats -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linner-Kot&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=solarized_dark)
+## Some of my GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Linner-Kot&theme=transparent&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linner-Kot&theme=transparent)
