@@ -1,24 +1,11 @@
-## Hi there! 👋 I'm Kirill, Frontend Web Developer (React, TypeScript)
+## Hi there! I'm Kirill, Frontend Web Developer (React, TypeScript) 👋
 
 You can contact me at
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linner_kot)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white&color=#26d367)](https://wa.me/79035740830?text=)
 
-<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_USER_NUMBER) -->
-<!--
-I am open to your suggestions, 1,5 years of professional experience, worked as a web developer in a COMPANY, where I honed my skills in:
-
-- development and optimization of frontend and backend functionality of websites for customer requests;
-- revision, correction, refactoring, improving the quality of existing system components, including working with ready-made code;
-- code reviews for other members;
-- interaction with the team.
-
-Key Achievements:
-
-- participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
-- elevated website performance by ensuring that they achieve 'green zone' PageSpeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences.
-
-## My Frontend Tech Stack-->
-<!-- ## Frontend -->
+## Things I code with
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -39,13 +26,11 @@ Key Achievements:
 
 ## IDEs and more
 
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0F2A.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My Favorite operating systems
 
@@ -55,8 +40,5 @@ Key Achievements:
 
 <!-- ## Some of my GitHub Stats -->
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NICKNAME)] -->
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_NICKNAME&theme=solarized_dark) -->
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_NICKNAME&theme=solarized_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linner-Kot&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=solarized_dark)
