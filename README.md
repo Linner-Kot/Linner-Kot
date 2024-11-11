@@ -44,5 +44,5 @@ I am open to your suggestions, 1,5 years of professional experience as a fronten
 ![Windows](https://img.shields.io/badge/windows-%23327B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Some of my GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linner-Kot&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=transparent)
