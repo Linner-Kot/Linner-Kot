@@ -5,18 +5,12 @@ You can contact me at:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linner_kot)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white&color=#26d367)](https://wa.me/79035740830?text=)
 
-I am open to your suggestions, 1,5 years of professional experience, worked as a frontend web developer in a «К-технологии», where I honed my skills in:
+I am open to your suggestions, 1,5 years of professional experience as a frontend web developer at a «К-технологии», where I honed my skills in:
 
-- development and optimization of frontend functionality of websites for customer requests;
-- revision, correction, refactoring, improving the quality of existing system components, including working with ready-made code;
-- interaction with the team.
-
-<!--
-Key Achievements:
-
-- participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
-- elevated website performance by ensuring that they achieve 'green zone' PageSpeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences.
--->
+- developing and optimizing frontend functionality of websites using Angular and TypeScript based on customer requests;
+- writing unit tests with Karma and Jasmine, utilizing RxJS for asynchronous interactions;
+- revising, correcting, refactoring and improving the quality of existing system components, including working with ready-made code;
+- optimizing the performance of application dealing with large data sets by using SharedWorker to improve the frontend performance of Angular applications.
 
 ## Things I code with
 
@@ -50,6 +44,5 @@ Key Achievements:
 ![Windows](https://img.shields.io/badge/windows-%23327B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Some of my GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Linner-Kot&theme=transparent&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Linner-Kot&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linner-Kot&theme=transparent)
