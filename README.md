@@ -1,4 +1,6 @@
-## Hi there! I'm Kirill, Frontend Web Developer (React, TypeScript) 👋
+<h1 align="center">Hi there, I'm Kirill
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Web Developer (React, TypeScript)</h3>
 
 You can contact me at:
 
