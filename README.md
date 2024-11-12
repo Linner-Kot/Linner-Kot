@@ -14,6 +14,12 @@ I am open to your suggestions, 1,5 years of professional experience as a fronten
 - revising, correcting, refactoring and improving the quality of existing system components, including working with ready-made code;
 - optimizing the performance of application dealing with large data sets by using SharedWorker to improve the frontend performance of Angular applications.
 
+In my personal projects, I have also expanded my skill set to include:
+
+- building applications with React and managing complex state with Redux and Redux Toolkit;
+- applying React’s component-driven development to create efficient, reusable UI components;
+- leveraging modern tooling like Vite for fast, optimized builds in my React projects.
+
 ## Things I code with
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
